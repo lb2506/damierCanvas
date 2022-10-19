@@ -1,0 +1,36 @@
+// Fonts import and declaration
+@font-face {
+    font-family: 'Futura PT Bold Oblique';
+    src: url('../../../../dist/assets/fonts/FuturaPT-BoldObl.eot'); /* IE9 Compat Modes */
+    src: 
+         url('../../../../dist/assets/fonts/FuturaPT-BoldObl.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../../../../dist/assets/fonts/FuturaPT-BoldObl.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../../../../dist/assets/fonts/FuturaPT-BoldObl.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+  
+  @font-face {
+    font-family: 'Futura PT Heavy Oblique';
+    src: url('../../../../dist/assets/fonts/FuturaPT-HeavyObl.eot'); /* IE9 Compat Modes */
+    src: 
+         url('../../../../dist/assets/fonts/FuturaPT-HeavyObl.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../../../../dist/assets/fonts/FuturaPT-HeavyObl.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../../../../dist/assets/fonts/FuturaPT-HeavyObl.ttf')  format('truetype'), /* Safari, Android, iOS */
+  }
+  
+  @font-face {
+    font-family: 'Futura PT Medium';
+    src: url('../../../../dist/assets/fonts/FuturaPT-Book.eot'); /* IE9 Compat Modes */
+    src: 
+         url('../../../../dist/assets/fonts/FuturaPT-Book.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../../../../dist/assets/fonts/FuturaPT-Book.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../../../../dist/assets/fonts/FuturaPT-Book.ttf')  format('truetype'), /* Safari, Android, iOS */
+  }
+  
+  @font-face {
+    font-family: 'Futura PT Demi Oblique';
+    src: url('../../../../dist/assets/fonts/FuturaPT-DemiObl.eot'); /* IE9 Compat Modes */
+    src: 
+         url('../../../../dist/assets/fonts/FuturaPT-DemiObl.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../../../../dist/assets/fonts/FuturaPT-DemiObl.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../../../../dist/assets/fonts/FuturaPT-DemiObl.ttf')  format('truetype'), /* Safari, Android, iOS */
+  }
